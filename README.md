@@ -13,6 +13,9 @@
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies.  
+
+
+- ⚡ I'm an explorer in [Launch X LATAM.](https://news.microsoft.com/es-xl/la-iniciativa-launch-x-latam-ayuda-a-los-jovenes-latinoamericanos-a-certificarse-como-desarrolladores-y-potenciar-sus-oportunidades-laborales/)
   
 
 <br/>  
