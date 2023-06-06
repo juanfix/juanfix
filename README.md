@@ -1,25 +1,21 @@
+<img src="https://img.freepik.com/vector-premium/hello-world-es-palabra-simple-primera-programacion-programador_48644-298.jpg" align="left" height="350" width="100%" />
 
-### <div align="center">I'm Juan José Ceballos Navia, a software developer👨‍💻 working remotely since 2020 🚀</div>  
+## <div align="center">I'm Juan José Ceballos Navia, a software developer👨‍💻 working remotely since 2020 🚀</div>  
 
 [comment]: <> (I’m currently working as a freelance developer. )
 
 - 🔭 I’m currently studying. 
   
-
 - 🌱 I’m currently learning Next.js and Java.  
-  
 
 - ❓ Ask me about anything related to MERN stack and related technologies.  
 
-
 - ⚡ I'm a student on [Oracle Next Education - Alura.](https://www.oracle.com/lad/education/oracle-next-education/)
   
-
 <br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 ### Frontend  
 <div align="center">  
@@ -86,10 +82,15 @@
 
 ## Github Stats
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juanfix&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juanfix&show_icons=true&theme=dark" />
 </div>
 
-<br/>  
+<br/> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanfix&layout=compact&theme=dark" />
+</div>
+
+<br/> 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=juanfix&&style=flat-square" align="center" />
