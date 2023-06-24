@@ -10,7 +10,7 @@
 
 - ❓ Ask me about anything related to MERN stack and related technologies.  
 
-- ⚡ I'm a student on [Oracle Next Education - Alura.](https://www.oracle.com/lad/education/oracle-next-education/)
+- ⚡ I'm a student on [Oracle Next Education - Alura](https://www.oracle.com/lad/education/oracle-next-education/) and [ATL Academy.](https://atl.academy/bootcamp/java/)
   
 <br/>  
 
@@ -34,8 +34,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -49,8 +47,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -62,32 +58,30 @@
 
 <br/>  
 
-
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/juanfix" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/juanjo_0215" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/juan-jose-ceballos-navia" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+  <a href="https://linkedin.com/in/juan-jose-ceballos-navia" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/juanjo_0215" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://discordapp.com/users/381337659848523788" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div> 
   
-
 <br/>  
-
 
 ## Github Stats
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juanfix&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juanfix&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
 <br/> 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanfix&layout=compact&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juanfix&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 <br/> 
