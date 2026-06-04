@@ -2,7 +2,8 @@
 
 ## <div align="center">I'm Juan José Ceballos Navia, a software developer👨‍💻 working remotely since 2020 🚀</div>  
 
-<!--[comment]: <> (I’m currently working as a freelance developer. )
+<!--
+[comment]: <> (I’m currently working as a freelance developer. )
 
 - 🔭 I’m currently studying. 
   
@@ -10,7 +11,8 @@
 
 - ❓ Ask me about anything related to MERN stack and related technologies.  
 
-- ⚡ I'm a student on [Oracle Next Education - Alura](https://www.oracle.com/lad/education/oracle-next-education/) and [ATL Academy.](https://atl.academy/bootcamp/java/)-->
+- ⚡ I'm a student on [Oracle Next Education - Alura](https://www.oracle.com/lad/education/oracle-next-education/) and [ATL Academy.](https://atl.academy/bootcamp/java/)
+-->
   
 <br/>  
 
